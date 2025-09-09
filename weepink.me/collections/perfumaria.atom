@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/perfumaria.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-09T17:08:39-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14788255318386</id>
+    <published>2025-09-09T17:08:39-03:00</published>
+    <updated>2025-09-09T17:08:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/kit-perfume-obsessed-body-splash-obsessed-creme-corporal-obsessed"/>
+    <title>KIT - Perfume Obsessed + Body Splash Obsessed + Creme Corporal Obsessed</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ChatGPTImageSep9_2025_04_57_54PM.png?v=1757447890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            69.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="79" data-end="151">💖 <strong data-start="82" data-end="105">Kit Obsessed Wepink</strong> 💖<br data-start="108" data-end="111"><strong>Perfume + Body Splash + Creme Corporal</strong></p>
+<p data-start="153" data-end="279">👉 Mais perfume, mais frescor e pele macia todos os dias!<br data-start="210" data-end="213">🔥 Um trio irresistível pra você se sentir única e inesquecível.</p>
+<p data-start="281" data-end="302">Garanta já o seu! ✨</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788255318386</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">69.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14788245881202</id>
+    <published>2025-09-09T16:52:20-03:00</published>
+    <updated>2025-09-09T16:52:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/infinity-desodorante-colonia-75ml-wepink"/>
+    <title>Infinity Desodorante Colônia 75ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159567-1200-auto.png?v=1757447509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            52.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Infinity Desodorante Colônia</span></strong><span>, tem essência da mulher determinada que corre atrás dos seus sonhos representadas através de suas notas olfativas, que contém um mix de flores, fundo adocicado, patchouli e âmbar, proporcionando um toque todo especial para essa criação. Um manifesto de paixão, doçura e empoderamento numa fragrância feminina ideal para você brilhar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788245881202</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">52.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14788245750130</id>
+    <published>2025-09-09T16:50:52-03:00</published>
+    <updated>2025-09-09T16:50:52-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/one-touch-desodorante-colonia-100ml-wepink"/>
+    <title>One Touch Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159391-1200-auto.png?v=1757447418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            55.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">One Touch Desodorante Colônia</span></strong><span> </span>foi desenvolvido para pessoas que vão atrás dos seus objetivos. Glamour para marcar momentos especiais exalando garra, força, autenticidade e poder. Descreve exatamente o perfil de uma pessoa determinada, transformadora, que vive intensamente, sem rótulos e sem medo de ser quem é.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Sua essência representa uma personalidade marcante através de notas olfativas de frutas selecionadas e um mix de flores. Onde o fundo adocicado, patchouli e baunilha trazem um diferencial para essa criação.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788245750130</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">55.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14788245586290</id>
+    <published>2025-09-09T16:48:44-03:00</published>
+    <updated>2025-09-09T16:48:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/king-blue-desodorante-colonia-100ml-wepink"/>
+    <title>King Blue Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159556-1200-auto.png?v=1757447332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            57.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<strong> <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">King Blue Desodorante Colônia</span> </strong>tem a essência do homem vitorioso que supera seus desafios. A fragrância inspira poder triunfante e deixa sua marca, manifestando-se em pura energia e modernidade.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Suas notas olfativas têm um caminho amadeirado, que transmitem confiança, elegância e charme. Equilibrando os sentidos com a bergamota e ervas, em um fundo adocicado com patchouli e âmbar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788245586290</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">57.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14788245520754</id>
+    <published>2025-09-09T16:47:07-03:00</published>
+    <updated>2025-09-09T16:47:07-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/vf-desodorante-colonia-75ml-wepink"/>
+    <title>VF Desodorante Colônia 75ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159395-1200-auto.png?v=1757447194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">VF Desodorante Colônia</span></strong><span> é feito para mulheres autênticas e femininas. Descreve o perfil de uma pessoa determinada, transformadora, que vive intensamente, sem rótulos e sem medo de ser quem é.</span><br><span> </span><br><span>Sua essência representa sua personalidade marcante através de notas olfativas de frutas amarelas, associado com a Jasmim, onde o fundo mais adocicado e chique do Âmbar e Patchouli traz o diferencial para essa criação.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788245520754</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14788244799858</id>
+    <published>2025-09-09T16:39:35-03:00</published>
+    <updated>2025-09-09T16:39:35-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/one-touch-warm-desodorante-colonia-100ml-wepink"/>
+    <title>One Touch Warm Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160555-1200-auto.webp?v=1757446673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<strong> <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">One Touch Warm</span> Desodorante Colônia</strong> é destinado para quem deseja deixar uma marca inesquecível por onde passa, emanando um toque intenso entrelaçado em pura sedução. Encantando pela autenticidade de quem sabe o que deseja e sempre adiciona ousadia à própria história.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Uma experiência sensorial única que começa com a revelação exuberante das frutas. No coração, desabrocham notas florais de jasmim e flor de laranjeira com um toque suave de coco, finalizando com notas doces da baunilha, caramelo e a luxuosa amadeirada Caxemira.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14788244799858</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">42.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787643081074</id>
+    <published>2025-09-08T18:52:36-03:00</published>
+    <updated>2025-09-08T18:52:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/celebrate-relics-desodorante-colonia-100ml-wepink"/>
+    <title>Celebrate Relics Desodorante Colônia 100ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160843-1200-auto.png?v=1757368305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            59.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="vtex-rich-text-0-x-container vtex-rich-text-0-x-container--container-p-b-24 vtex-rich-text-0-x-container--container-p-h-24-s vtex-rich-text-0-x-container--black-color vtex-rich-text-0-x-container--font-w-400 vtex-rich-text-0-x-container--font-s-16-m vtex-rich-text-0-x-container--font-s-14-s vtex-rich-text-0-x-container--description-product-pdp flex tl items-start justify-start t-body c-on-base">
+<div class="vtex-rich-text-0-x-wrapper vtex-rich-text-0-x-wrapper--container-p-b-24 vtex-rich-text-0-x-wrapper--container-p-h-24-s vtex-rich-text-0-x-wrapper--black-color vtex-rich-text-0-x-wrapper--font-w-400 vtex-rich-text-0-x-wrapper--font-s-16-m vtex-rich-text-0-x-wrapper--font-s-14-s vtex-rich-text-0-x-wrapper--description-product-pdp">
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Colônia Wepink Celebrate Relics</span><span> </span>exalta a essência das lembranças mais ricas e brilhantes da vida, que reluzem em um aroma floral, frutado e suave. Suas nuances possuem o toque fresco da Pera e da Bergamota, revelando um tesouro em um coração floral único. Ao fundo, exala a riqueza do Âmbar e da Baunilha, uma poderosa fragrância que celebra um doce encanto.</p>
+</div>
+</div>
+<p><img title="" sizes="" srcset="" src="https://www.wepink.com.br/desod-col-celebrate-relics-100-ml---wepink-310/p" alt="" class="vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--description-image" loading="eager"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787643081074</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">59.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787542253938</id>
+    <published>2025-09-08T16:53:16-03:00</published>
+    <updated>2025-09-08T16:53:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/celebrate-life-desodorante-colonia-100ml-wepink"/>
+    <title>Celebrate Life Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159934-1200-auto.png?v=1757361169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            61.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Um doce tributo à celebração, o<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Celebrate Life Desodorante Colônia</span></strong><span> </span>tem a essência de festejar o extraordinário, refletindo uma beleza única e verdadeira por todos os lugares por onde é transmitido. Excepcionalmente feito para pessoas que brilham ao comemorar sempre o lado bom da vida!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Uma expressão olfativa que eleva ao divino, inicia com notas suaves e frescas, acompanhadas de toque da vibrante de pimenta rosa. No coração, as notas florais adicionam uma dimensão romântica e elegante de lírio-do-vale, rosa e jasmim. A assinatura é marcada por notas envolventes e sedutoras, em uma dimensão amadeirada com suave doçura.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787542253938</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">61.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787539829106</id>
+    <published>2025-09-08T16:51:18-03:00</published>
+    <updated>2025-09-08T16:51:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/vf-bloom-desodorante-colonia-75ml-wepink"/>
+    <title>VF Bloom Desodorante Colônia 75ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160550-1200-auto.webp?v=1757361031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<strong> <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">VF Bloom Desodorante Colônia</span></strong><span> </span>é uma ode à delicadeza feminina com toques de sensualidade e elegância, que exalta o amor à vida como uma bela primavera. Seu aroma personifica uma aura jovem e encantadora, com um sorriso vibrante e sofisticado.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Sua experiência olfativa é única e suave, começa com a captura da alegria em um mix de frutas, em uma explosão cítrica da bergamota e toranja, misturada com a suculência do pêssego e a delicadeza do coco. No coração, uma harmonia floral abraça um lado romântico e elegante. Seguindo para um fundo doce e amadeirado trazendo conforto com um toque sensual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787539829106</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787535962482</id>
+    <published>2025-09-08T16:47:36-03:00</published>
+    <updated>2025-09-08T16:47:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/liberte-desodorante-colonia-100ml-wepink"/>
+    <title>Liberté Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160396-1200-auto.webp?v=1757360834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Liberté Desodorante Colônia</span></strong><span> </span>evidencia a forma mais sublime, elegante e nobre da liberdade. Refletindo a pessoa sonhadora, que se orgulha da sua trajetória e é incansável na busca de realizar os seus sonhos.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Sua fragrância transborda nuances encantadoras e misteriosas facetas, com toques de pimenta rosa, toranja e flores nobres, com grande destaque para a reconhecida rainha da perfumaria, a Rosa Francesa Centifolia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787535962482</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787531342194</id>
+    <published>2025-09-08T16:43:11-03:00</published>
+    <updated>2025-09-08T16:43:11-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/vf-golden-desodorante-colonia-75ml-wepink"/>
+    <title>VF Golden Desodorante Colônia 75ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160545-1200-auto.webp?v=1757360549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            58.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Colônia <strong>Wepink VF Golden</strong></span><span> celebra a essência extraordinária dos momentos mais felizes, em uma fragrância vibrante e encantadora aos sentidos. Sua fragrância oriental inicia com a alegria e delicadeza da bergamota, mesclando elegância nas notas festivas de peônia e jasmim sambac. Evolui em um coração floral inesquecível e finaliza em um fundo doce e amadeirado, revelando uma beleza exclusiva e poderosa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787531342194</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">58.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787528982898</id>
+    <published>2025-09-08T16:40:48-03:00</published>
+    <updated>2025-09-08T16:40:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/liberte-exclusif-desodorante-colonia-100ml-wepink"/>
+    <title>Liberté Exclusif Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160730-1200-auto.png?v=1757360388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Uma chuva de pétalas de rosa damascena cai graciosamente sobre um baú de madeira com detalhes em ouro branco. A chave, que parece ser mais antiga que o próprio tempo, está pronta para as suas mãos. Destrancando o baú e levantando sua tampa, você encontra o que sempre procurou. A última flor para completar o seu buquê de experiências. O próprio conceito do único, condensado em um belo frasco. Seu nome é<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Liberté Exclusif</span></strong>.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Colônia Wepink<strong> Liberté Exclusif</strong></span><span> </span>inicia no frescor da pera e da lichia, evoluindo no coração floral e o toque de incenso mais elegante. Finaliza em um valioso fundo de âmbar e baunilha, transbordando nuances suaves de um verdadeiro elixir floral.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787528982898</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787525214578</id>
+    <published>2025-09-08T16:36:31-03:00</published>
+    <updated>2025-09-08T16:36:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/obsessed-desodorante-colonia-100ml-wepink"/>
+    <title>Obsessed Desodorante Colônia 100ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158210-1200-auto.png?v=1757360145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            55.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Misteriosa, Sexy, Desejada e Elegante, o<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Obsessed Desodorante Colônia</span> </strong>representa a mulher que é um verdadeiro escândalo e revela a sua ousadia de forma mágica, deixando todos encantados, pois dita suas próprias regras, evidenciando suas qualidades que sempre a torna única.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A fragrância sensual e ousada começa com o toque de cereja entrelaçado pelos cítricos, seguindo para a nobreza da gardênia, que ganha espaço junto a doçura das notas de mel e caramelo, finalizando para um deleite despretensioso aos sentidos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787525214578</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">55.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787523576178</id>
+    <published>2025-09-08T16:34:34-03:00</published>
+    <updated>2025-09-08T16:34:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/vf-onyx-desodorante-colonia-75ml-wepink"/>
+    <title>VF Onyx Desodorante Colônia 75ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/161279-1200-auto.png?v=1757359999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            44.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">VF Onyx</span></strong><span> </span>é baunilha como você nunca sentiu antes: intensa, sexy e inesquecível. A cremosidade do leite e a doçura equilibrada da baunilha se encontram com a sofisticação da orquídea, criando um contraste afiado e irresistível que prende os sentidos desde o primeiro instante.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">No fundo, o âmbar permanece suave, com nuances amadeiradas que tornam a composição única e viciante. Absolutamente magnético,<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">VF Onyx</span></strong><span> </span>é aquele aroma que você não consegue parar de sentir na pele.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787523576178</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">44.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

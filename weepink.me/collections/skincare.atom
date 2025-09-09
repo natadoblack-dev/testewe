@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/skincare.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-08T17:52:55-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14787605725554</id>
+    <published>2025-09-08T17:52:55-03:00</published>
+    <updated>2025-09-08T17:52:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/we-mask-mascara-de-argila-carvao-ativado-100g-wepink"/>
+    <title>We Mask - Máscara de Argila Carvão Ativado 100g - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159663-1200-auto.png?v=1757364735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong>A <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">We Mask de Carvão Ativado</span></strong><span> </span>é ideal para manter o equilíbrio da pele e ganhar luminosidade. Ela auxilia em uma limpeza profunda, na uniformidade e na elasticidade do rosto.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A máscara tem uma textura cremosa e uma essência única, você irá sentir sua pele renovada e hidratada, melhorando o aspecto natural e usufruindo de um spa em casa.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Desfrute dos melhores momentos de autocuidado com a linha de skincare da wepink.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787605725554</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">26.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787598909810</id>
+    <published>2025-09-08T17:45:55-03:00</published>
+    <updated>2025-09-08T17:45:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/kit-skincare-wepink"/>
+    <title>Kit Skincare - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160702-1200-auto.webp?v=1757364337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            99.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong>O <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Sérum Facial 10 em 1</span> Wepink</strong> foi desenvolvido para ser o seu produto único e essencial, tudo o que você precisa para sua pele em um único sérum. Sua criação foi pensada em uma fórmula exclusiva de ultra hidratação com um mix de componentes de fatores necessários para uma pele saudável.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong>O <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Sérum Noturno Wepink</span></strong><span> </span>veio para revolucionar o mercado, dando mais um cuidado a sua rotina de skincare, ele possuí ativos que juntos trabalham para um resultado anti-age, que auxilia contra o envelhecimento, auxilia no controle de oleosidade, também ajuda no clareamento da pele e atua com uma hidratação profunda.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong>O <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Sabonete Facial Essencial Cleanser</span></strong><span> </span>foi desenvolvido para completar com excelência o seu jeito de se cuidar.</p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Criamos uma fórmula exclusiva para todos os tipos de pele que traz uma limpeza profunda com alto poder adstringente e um tônico natural para seu rosto.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787598909810</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">99.40</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787593798002</id>
+    <published>2025-09-08T17:40:55-03:00</published>
+    <updated>2025-09-08T17:40:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/eyescare-creme-contorno-dos-olhos-15ml-wepink"/>
+    <title>Eyescare - Creme Contorno dos Olhos - 15ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159958-1200-auto.png?v=1757363950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            33.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Eyescare</span> </strong>vai ser o seu queridinho para reduzir bolsas e clarear olheiras! Perfeito para todos os tipos de pele, ele tem uma textura suave, delicada, sendo super fácil de aplicar.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O creme contorno dos olhos vai revitalizar a pele da região, auxiliando na hidratação, no combate ao envelhecimento precoce e na firmeza do olhar, pois possui o efeito lifting essencial para levantar e esticar a pele.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Desfrute dos melhores momentos de autocuidado com a linha de<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">skincare</span> da <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">wepink</span></strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787593798002</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">33.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787589964146</id>
+    <published>2025-09-08T17:37:15-03:00</published>
+    <updated>2025-09-08T17:37:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/serum-noturno-25ml-wepink"/>
+    <title>Sérum Noturno 25ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158458-1200-auto.png?v=1757363691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<strong> <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Sérum Noturno wepink</span> </strong>veio para revolucionar o mercado, dando mais um cuidado a sua rotina de skincare, ele possui ativos que juntos trabalham para um resultado anti-aging, que auxilia contra o envelhecimento precoce, auxilia no controle de oleosidade, também ajuda no clareamento da pele e atua com uma hidratação profunda.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Obs:</span><span> </span>A coloração do produto pode variar de branca a amarela.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787589964146</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">29.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787585933682</id>
+    <published>2025-09-08T17:33:47-03:00</published>
+    <updated>2025-09-08T17:33:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/cleansing-wipes-lenco-umedecido-demaquilante-25-un-wepink"/>
+    <title>Cleansing Wipes Lenço Umedecido Demaquilante 25 un. - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159486-1200-auto.png?v=1757363585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="vtex-rich-text-0-x-container vtex-rich-text-0-x-container--container-p-b-24 vtex-rich-text-0-x-container--container-p-h-24-s vtex-rich-text-0-x-container--black-color vtex-rich-text-0-x-container--font-w-400 vtex-rich-text-0-x-container--font-s-16-m vtex-rich-text-0-x-container--font-s-14-s vtex-rich-text-0-x-container--description-product-pdp flex tl items-start justify-start t-body c-on-base">
+<div class="vtex-rich-text-0-x-wrapper vtex-rich-text-0-x-wrapper--container-p-b-24 vtex-rich-text-0-x-wrapper--container-p-h-24-s vtex-rich-text-0-x-wrapper--black-color vtex-rich-text-0-x-wrapper--font-w-400 vtex-rich-text-0-x-wrapper--font-s-16-m vtex-rich-text-0-x-wrapper--font-s-14-s vtex-rich-text-0-x-wrapper--description-product-pdp">
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Os<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Lenços Umedecidos Demaquilantes Wepink Cleansing Wipes</span></strong><span> </span>são especialmente feitos para a rotina de cuidados da sua pele, pois elimina as impurezas, limpa profundamente, hidrata, remove maquiagem à prova dágua e ajuda no controle da oleosidade. Tudo isso, em um toque macio e ideal para todos os tipos de pele.</p>
+</div>
+</div>
+<p><img title="" sizes="" srcset="" src="https://www.wepink.com.br/lenco-demaquilante-exclusive----wepink-lenc-car-001/p?utm_source=google&amp;utm_campaign=21781535651&amp;utm_medium=gle_--&amp;utm_content=%7C%7Cnemu_EU0YXJebsZ" alt="" class="vtex-store-components-3-x-imageElement vtex-store-components-3-x-imageElement--description-image" loading="eager"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787585933682</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787584295282</id>
+    <published>2025-09-08T17:32:19-03:00</published>
+    <updated>2025-09-08T17:32:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/protetor-solar-fps-50-suncare-30ml-we-pink"/>
+    <title>Protetor Solar FPS 50 Suncare 30ml - We­pink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158360-1200-auto.png?v=1757363460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            33.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Suncare</span></strong>, o protetor solar facial do mundo rosa foi desenvolvido para hidratar, equilibrar e oferece alta proteção para a pele, combatendo os efeitos nocivos dos raios UVA/UVB. Com um PPD (Dose de Pigmentação Persistente) de 18,5 e FPS 50 contra UVB, sua fórmula única é enriquecida com ativos inteligentes, que não apenas defendem dos raios solares, mas também auxiliam na prevenção de acnes, no controle da oleosidade e combate ao envelhecimento precoce.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Desenvolvido para todos os tipos de pele, o<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">suncare</span></strong><span> </span>apresenta uma textura creme e um toque seco, evitando o efeito luminoso no rosto e proporcionando um acabamento matte. Especialmente projetado para peles mistas e oleosas, pois não contém óleo na composição, garantindo um controle eficaz da oleosidade sem comprometer a saúde da pele.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Desfrute dos melhores momentos de autocuidado com a linha de<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">skincare</span> da <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">wepink</span></strong>, pele saudável e sem complicações.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787584295282</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">33.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787581084018</id>
+    <published>2025-09-08T17:29:12-03:00</published>
+    <updated>2025-09-08T17:29:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/cleanser-essential-sabonete-facial-120ml-wepink"/>
+    <title>Cleanser Essential Sabonete Facial 120ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158848-1200-auto.png?v=1757363317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>O <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Sabonete Facial Essencial Cleanser</span></strong><span> foi desenvolvido para completar com excelência o seu jeito de se cuidar.</span><br><span> </span><br><span>Criamos uma fórmula exclusiva para todos os tipos de pele que traz uma limpeza profunda com alto poder adstringente e um tônico natural para seu rosto.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787581084018</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787518562674</id>
+    <published>2025-09-08T16:30:08-03:00</published>
+    <updated>2025-09-08T16:30:08-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hydracare-essential-hidratante-facial-60ml-wepink"/>
+    <title>Hydracare Essential Hidratante Facial 60ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160074-1200-auto.webp?v=1757359726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            35.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Hidratante Facial Wepink Hydracare Essential</span></strong><span> é indispensável para a sua rotina de cuidados diária, com ativos de excelência para mais brilho e maciez. Sua fórmula única conta com uma série de benefícios para a pele do rosto, como alto poder de hidratação, proteção e auxílio na firmeza e elasticidade da barreira cutânea. Tudo isso, em um tratamento prático e pensado para todos os tipos de pele.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787518562674</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">35.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

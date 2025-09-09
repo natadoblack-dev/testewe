@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/makes.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-08T22:29:46-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14787678306674</id>
+    <published>2025-09-08T22:29:46-03:00</published>
+    <updated>2025-09-08T22:29:46-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/cleansing-oil-demaquilante-120ml-wepink"/>
+    <title>Cleansing Oil Demaquilante 120ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159952-1200-auto.png?v=1757381338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Cleansing Oil da Wepink</span><span> </span>remove a make de forma delicada e sem esforço! Com um toque macio, proporciona uma limpeza de alta qualidade, eliminando impurezas sem deixar a sua pele oleosa. É ideal para todos os tipos de pele e tem um cheirinho perfeito. Vai entrar na sua rotina de rotina de skincare e você não vai mais querer ficar sem!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Graças à sua formulação de ativos, o demaquilante em óleo do mundo rosa oferece nutrição e hidratação sem obstruir os poros. Além disso, possui componentes essenciais para combater o envelhecimento precoce, ajudando a minimizar linhas de expressão e rugas.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Use a linha de<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">skincare</span><span> </span>completa da<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">wepink</span><span> </span>para garantir uma pele bem cuidada!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787678306674</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787676012914</id>
+    <published>2025-09-08T22:26:24-03:00</published>
+    <updated>2025-09-08T22:26:24-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/boldeye-lapis-retratil-all-black-0-28g-wepink"/>
+    <title>Boldeye - Lápis Retrátil All Black - 0,28g - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158481-1200-auto.png?v=1757381158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Boldeye</span></strong>, o lápis retrátil do mundo rosa, é perfeito para você que não abre mão de um olhar marcante, perfeito e preciso. Com a sua cor intensa, ele desliza facilmente sobre a pele e a linha d’água dos olhos, sendo o ideal para criar vários looks.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A ponta do<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">lápis retrátil</span><span> </span>da wepink é super fininha e macia, o Boldeye é perfeito para fazer um delineado discreto ou um olho todo esfumado. Então, você só precisa ajustar ao tamanho que quiser e fazer do seu jeitinho!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A linha de maquiagem da wepink veio para fazer história com você.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787676012914</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">17.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787675718002</id>
+    <published>2025-09-08T22:24:30-03:00</published>
+    <updated>2025-09-08T22:24:30-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/weblush-quarteto-de-blush-7-2g-wepink"/>
+    <title>Weblush - Quarteto de Blush 7,2g - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158497-1200-auto.png?v=1757381058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Weblush</span></strong><span> </span>tem o glow essencial para você arrasar na make, seja ela discreta para o dia a dia ou chamativa para uma festa. O quarteto de cores é super pigmentado e sua fórmula tecnológica proporciona uma alta fixação, com textura finíssima e super aveludada.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A paleta tem quatro tons: coral, rosado, alaranjado e rosê, pensadas para combinar com vários tons de pele, realçando a beleza de todos de uma forma natural. Você poderá construir camadas, iluminar a pele e misturar os tons.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A linha de maquiagem da wepink veio para fazer história com você.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787675718002</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">23.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787675554162</id>
+    <published>2025-09-08T22:21:39-03:00</published>
+    <updated>2025-09-08T22:21:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/gloss-my-lips-4ml-wepink"/>
+    <title>Gloss My Lips 4ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/158501-1200-auto.png?v=1757380859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            23.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Gloss Labial My Lips!</span></strong><span> é um tratamento inovador que garante 24h de proteção, volume e conforto, além de contar com ativos que aumentam seus lábios, deixando você maravilhosa!</span><br><span> </span><br><span>Um dos principais ingredientes é o ácido hialurônico, que é um ativo poderoso, capaz de atrair água e, consequentemente, aumentar o volume dos lábios, deixando a pele dessa região ainda mais saudável.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787675554162</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">23.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787674472818</id>
+    <published>2025-09-08T22:18:20-03:00</published>
+    <updated>2025-09-08T22:18:20-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/lip-tint-glow-essencial-5-8ml-wepink"/>
+    <title>Lip Tint Glow Essencial 5,8ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/156006-1200-auto.webp?v=1757380646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O<strong> </strong></span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Lip Tint</span></strong><span> é um produto que foi desenvolvido para realçar a coloração dos lábios e manter a cor por uma longa duração, além de contar também com ativos que hidratam os seus lábios.</span><br><span> </span><br><span>É um produto versátil que também pode ser usado para deixar as maçãs do rosto coradas, é só passar e já está pronta para arrasar.</span><br><span> </span><br><span>Este produto contém Ácido Hialurônico e D-Pantenol, que estimula naturalmente a produção de colágeno e deixa seus lábios mais hidratados e com uma pigmentação maravilhosa.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787674472818</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787670081906</id>
+    <published>2025-09-08T22:07:28-03:00</published>
+    <updated>2025-09-08T22:07:28-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/welips-batom-liquido-matte-5ml-wepink"/>
+    <title>Welips - Batom Líquido Matte 5ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/156617-1200-auto.png?v=1757380490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O coração do seu mundo rosa ganhou mais cores, que vão completar a sua make e deixar os seus looks mais coloridos, elegantes e irreverentes, combinando com qualquer horário e todas as personalidades.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong>O <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">welips</span></strong><span> </span>será o seu companheiro para todas as horas, um verdadeiro amigo inseparável, isso porque, o nosso batom líquido matte tem uma longa duração, é prova d’água, super confortável e tem tons de alto impacto.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A linha de maquiagem da wepink veio para fazer história com você.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787670081906</id>
+      <title>Vermelho</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weepink.me/products/14787670081906</id>
+      <title>Rosa Claro</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weepink.me/products/14787670081906</id>
+      <title>Rosa Escuro</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weepink.me/products/14787670081906</id>
+      <title>Marrom Claro</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weepink.me/products/14787670081906</id>
+      <title>Marrom Escuro</title>
+      <s:price currency="BRL">19.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

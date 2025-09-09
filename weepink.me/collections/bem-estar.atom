@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/bem-estar.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-08T17:25:36-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14787577217394</id>
+    <published>2025-09-08T17:25:36-03:00</published>
+    <updated>2025-09-08T17:25:36-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/oleo-essencial-lavanda-5ml-wepink"/>
+    <title>Óleo Essencial Lavanda 5ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159225-1200-auto.png?v=1757363107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Óleo Essencial de Lavanda Wepink Serene Oil</span><span> é indispensável para o melhor descanso depois de um longo dia. Sua composição auxilia nos momentos de repouso com suas propriedades calmantes, entregando uma boa e perfeita noite de sono. Sua jornada sensorial suave possui um caminho olfativo refrescante através da flor de lavanda, de aroma inconfundível e encantador aos sentidos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787577217394</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
