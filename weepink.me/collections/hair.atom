@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/hair.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-08T17:16:55-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14787567747442</id>
+    <published>2025-09-08T17:16:55-03:00</published>
+    <updated>2025-09-08T17:16:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hair-tonic-tonico-capilar-120ml-wepink"/>
+    <title>Hair Tonic - Tônico Capilar 120ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159648-1200-auto.png?v=1757362630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Hair Tonic Wepink</span></strong><span> </span>é indispensável para conquistar um cabelo bonito e resistente. Ele veio preparado para combater à queda e ser um aliado perfeito para um cabelo bonito, resistente, robusto e cheiroso!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O tônico capilar do mundo rosa tem a combinação perfeita e essencial para auxiliar no tratamento dos seus fios, sendo ideal para todos os tipos de cabelo. Seus componentes vão ajudar no crescimento dos fios já existentes e na recuperação dos danificados.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Para um tratamento completo no cabelo, use a linha hair wepink.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787567747442</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787566109042</id>
+    <published>2025-09-08T17:15:18-03:00</published>
+    <updated>2025-09-08T17:15:18-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hair-mist-red-desodorante-capilar-50ml-wepink"/>
+    <title>Hair Mist Red Desodorante Capilar 50ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160806-1200-auto.webp?v=1757362485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Capilar Hair Mist Wepink RED</span></strong><span> é o melhor para cabelos mais brilhantes, protegidos e perfumados durante o dia todo, em uma essência que encanta em suas nuances marcantes e sedutoras. Seu aroma Oriental proporciona uma sensação de conforto e bem-estar aos fios, em meio a um mix de flores que atrai olhares por onde passar. Sua fragrância finaliza em um fundo doce e amadeirado, deslumbrando em uma excelente sensação de bem-estar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787566109042</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787562635634</id>
+    <published>2025-09-08T17:11:50-03:00</published>
+    <updated>2025-09-08T17:11:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hair-mist-heaven-desodorante-capilar-50ml-wepink"/>
+    <title>Hair Mist Heaven Desodorante Capilar 50ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160796-1200-auto.webp?v=1757362321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante <strong>Capilar Hair Mist Wepink Heaven</strong></span><span><strong> </strong>é o melhor para cabelos mais brilhantes, protegidos e perfumados durante o dia todo, em uma essência que remete a um universo delicado e alegre. Seu aroma ascende a um verdadeiro paraíso em um mix de flores, levando a uma jornada deslumbrante na Mandarina e na Flor de Laranjeira. Finaliza em um fundo doce, amadeirado e elegante.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787562635634</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787560767858</id>
+    <published>2025-09-08T17:09:53-03:00</published>
+    <updated>2025-09-08T17:09:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hair-mist-obsessed-desodorante-capilar-50ml-wepink"/>
+    <title>Hair Mist Obsessed Desodorante Capilar 50ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160801-1200-auto.webp?v=1757362215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            31.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Capilar Hair Mist Wepink Obsessed</span></strong><span> é o melhor para cabelos mais brilhantes, protegidos e perfumados durante o dia todo, junto à essência da mulher festiva e que sabe o que quer. Seu aroma Chipre revela um bem-estar envolvente no desejo da Cereja e da Laranja Sanguínea. Envolve-se em um mix de notas cítricas que se entrelaçam em puro desejo e sensualidade, manifestando um doce deleite aos sentidos nas notas de Mel e Caramelo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787560767858</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">31.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787557556594</id>
+    <published>2025-09-08T17:06:56-03:00</published>
+    <updated>2025-09-08T17:06:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/hair-mist-liberte-desodorante-capilar-50ml-wepink"/>
+    <title>Hair Mist Liberté Desodorante Capilar 50ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160791-1200-auto.webp?v=1757361979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            34.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Desodorante Capilar Hair Mist Wepink Liberté</span></strong><span><strong> </strong>é o melhor para cabelos mais brilhantes, protegidos e perfumados durante o dia todo, em uma essência que reflete a elegância e nobreza da liberdade. Seu aroma proporciona uma sensação de conforto e bem-estar aos fios, por um mix de flores que evidenciam a mulher que nunca desiste de seus sonhos. Sua fragrância evolui na rainha da perfumaria, a Rosa Francesa Centifolia, finalizando no doce da Baunilha e o amadeirado do Âmbar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787557556594</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">34.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787555230066</id>
+    <published>2025-09-08T17:05:01-03:00</published>
+    <updated>2025-09-08T17:05:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/proteina-condicionante-my-hair-ultra-repair-230ml-wepink"/>
+    <title>Proteína Condicionante My Hair Ultra Repair 230ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160776-1200-auto.webp?v=1757361874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            54.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Proteína Capilar Wepink My Hair Ultra Repair</span></strong><span><strong> </strong>é a sua maior aliada para conquistar fios sedosos e incríveis, agregando hidratação profunda, elasticidade, maciez e brilho com seus potentes ativos de D-Pantenol, lanolina e um mix natural dos óleos vegetais, argan e chá verde. Sua composição repara da raiz às pontas em um cuidado capilar essencial, por meio do melhor blend da proteína hidrolisada do trigo, arroz e a lanolina, restaurando a fibra danificada, reduzindo o frizz e promovendo ação antioxidante e nutritiva, além de melhorar a resistência capilar e proporcionar um crescimento saudável aos fios. Tudo isso, combinado em uma fragrância potente para o dia a dia, mantendo seu cabelo macio e perfumado durante o dia todo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787555230066</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">54.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787553067378</id>
+    <published>2025-09-08T17:03:03-03:00</published>
+    <updated>2025-09-08T17:03:03-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/leave-in-capilar-multifuncional-120ml-wepink"/>
+    <title>Leave-in Capilar Multifuncional 120ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/161140-1200-auto.webp?v=1757361735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Experimente a sensação de cabelo perfeito a cada splash com o<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp"><strong>Leave-in Capilar</strong> <strong>Multifuncional</strong></span><strong> </strong>do mundo rosa! O tratamento vai redefinir os seus cuidados capilares, oferecendo praticidade incomparável e um resultado final perfeito!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Leave-in</span></strong><span> </span>é essencial para manter o cabelo saudável e forte. Seu tratamento instantâneo sem enxágue, tem a combinação de ativos especialmente selecionados, que aumentam a resistência, fortalecem os fios, reparam danos causados pelo calor, sela as pontas duplas e proporciona mais brilho, maciez e hidratação.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Versátil, o<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Leave-in</span></strong><span> </span>permite aplicação tanto no cabelo seco para dar um efeito finalizador, quanto com o cabelo úmido, oferecendo uma camada de proteção térmica. O seu cabelo ficará lindo e leve, do jeito que você mais adora!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Para um tratamento completo no cabelo, use você a linha<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">hair wepink</span>.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787553067378</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">29.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787547595122</id>
+    <published>2025-09-08T16:58:21-03:00</published>
+    <updated>2025-09-08T16:58:21-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/booster-repair-oleo-capilar-30ml-wepink"/>
+    <title>Booster Repair Óleo Capilar 30ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160519-1200-auto.webp?v=1757361460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            42.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>O </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Booster Repair</span></strong><span> foi desenvolvido para revolucionar o jeito de cuidar do seu cabelo. Ele não é um simples “reparador de pontas” ou “óleo de cabelo".</span><br><span> </span><br><span>É a fórmula exclusiva que faltava para uma restauração completa dos fios, hidratação da raiz até as pontas trazendo brilho e maciez ao cabelo, além de deixar o cabelo perfumado.</span><br><span> </span><br><span>Além de todos os ativos e benefícios incríveis, ele tem uma finalização indescritível e um cheiro fora do normal, o verdadeiro perfume para o cabelo.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787547595122</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">42.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

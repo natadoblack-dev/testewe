@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="pt-BR" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weepink.me/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weepink.me/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weepink.me/collections/body-cream.atom"/>
+  <title>Minha loja</title>
+  <updated>2025-09-08T21:06:59-03:00</updated>
+  <author>
+    <name>Minha loja</name>
+  </author>
+  <entry>
+    <id>https://weepink.me/products/14787658187122</id>
+    <published>2025-09-08T21:06:59-03:00</published>
+    <updated>2025-09-08T21:06:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-fatal-rouge-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream Fatal Rouge Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159975-1200-auto.webp?v=1757376432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Loção Desodorante Body Cream Wepink Fatal Rouge</span></strong><span> aprecia a essência de uma mulher destemida e fatal, proporcionando um toque macio, hidratação, nutrição e firmeza. Sua composição auxilia na produção de colágeno e regeneração celular, além de deixar a pele com um aspecto saudável e brilhoso. Sua jornada sensorial sedutora e elegante possui um caminho Floral irresistível, evoluindo com o encanto em notas de Cassis e Pimenta Rosa. Sua essência se revela em um golpe fatal por um fundo doce e amadeirado, encantando por onde passar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787658187122</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787658154354</id>
+    <published>2025-09-08T21:05:44-03:00</published>
+    <updated>2025-09-08T21:05:44-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-one-touch-warm-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream One Touch Warm Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159760-1200-auto.png?v=1757376308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            24.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Loção Desodorante Body Cream Wepink One Touch Warm</span></strong><span>, envolvido em sedução e autenticidade, proporciona um toque macio, proporcionando hidratação, nutrição e firmeza. Sua composição auxilia na produção de colágeno e regeneração celular, além de deixar a pele com um aspecto saudável e brilhoso. Sua jornada sensorial encantadora inicia em um caminho olfativo deslumbrante, evoluindo para um mix de flores, e finalizando em notas doces e amadeiradas, exalando personalidade e sofisticação.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787658154354</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787658088818</id>
+    <published>2025-09-08T21:04:15-03:00</published>
+    <updated>2025-09-08T21:04:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-obsessed-gold-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream Obsessed Gold Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160027-1200-auto.webp?v=1757376261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A <strong>Loção corporal </strong></span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream Wepink Obsessed Gold Desodorante Hidratante</span></strong><span> tem um toque macio, que proporciona hidratação, nutrição e firmeza, pois sua composição auxilia na produção de colágeno e regeneração celular, além de deixar a pele com um aspecto saudável e brilhoso. Seu aroma evoca notas exuberantes em um caminho olfativo Floral Oriental, começa com toque de frutas, em um coração floral composto pela grandeza da gardênia e a delicadeza do néroli e jasmim, finalizando agradavelmente com um aroma doce e amadeirado.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787658088818</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787657990514</id>
+    <published>2025-09-08T21:02:51-03:00</published>
+    <updated>2025-09-08T21:02:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-perfect-pear-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream Perfect Pear Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159965-1200-auto.webp?v=1757376177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A<strong> </strong></span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Loção Desodorante Body Cream Wepink Perfect Pear</span></strong><span> possui um toque macio, delicadamente feito para hidratação, nutrição e firmeza. Sua composição auxilia na produção de colágeno e regeneração celular, além de deixar a pele com um aspecto e saudável e brilhoso, para quem deseja um bem-estar refrescante. Sua jornada sensorial segue um caminho olfativo Floral, exalando uma essência feminină e elegante em um fundo doce e amadeirado</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787657990514</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787657892210</id>
+    <published>2025-09-08T21:01:04-03:00</published>
+    <updated>2025-09-08T21:01:04-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-vf-choices-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream VF Choices Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160017-1200-auto.webp?v=1757376026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            26.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp"><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream VF Choices Desodorante Hidratante</span></strong><span> </span>é uma loção corporal que encanta pelo toque macio, suave e perfumado. Um convite perfeito para a liberdade de ser quem é, conquistando uma pele bonita, brilhosa e com aspecto saudável. Tudo isso é possível graças ao blend de 9 ativos superpotentes, repletos de propriedades hidratantes e nutritivas, que combatem o envelhecimento precoce, proporcionam firmeza à pele e auxiliam na produção de colágeno.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Sua jornada sensorial efervescente e sensual, desenha o caminho olfativo Chipre Fresh, começa com notas frutadas e segue para um coração que desperta o desabrochar das flores e finaliza em uma trilha misteriosa cheia de sedução, com toques amadeirados e doces.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream</span><span> </span>veio para completar a <strong>linha <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">VF Choices</span></strong><span> </span>e os seus momentos de autocuidado. Passe e sinta a sensação de leveza, do toque suave e textura única!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787657892210</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">26.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787657761138</id>
+    <published>2025-09-08T20:58:25-03:00</published>
+    <updated>2025-09-08T20:58:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-vf-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream VF Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/157896-1200-auto.png?v=1757375960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream VF Desodorante Hidratante</span></strong><span> </span>é o creme mais eficiente e suavizante para peles que precisam de autocuidado. Ele tem o melhor para hidratação e bem-estar. Contém um blend de extratos, óleo de amêndoas e nano vitamina E encapsulada. Possui uma textura única e envolvente!</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Suas notas olfativas são associadas a delicadeza das frutas amarelas, jasmim, um fundo adocicado e chic âmbar e patchouli.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O Body cream, veio para completar a<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">linha VF</span></strong><span> </span>de autocuidado. Passe e sinta a sensação de leveza, do toque suave e textura única.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787657761138</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">24.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787657695602</id>
+    <published>2025-09-08T20:55:55-03:00</published>
+    <updated>2025-09-08T20:55:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-liberte-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream Liberté Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/157853-1200-auto.png?v=1757375721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>Shampoo<br>
+        <strong>Preço: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A loção corporal<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream Liberté Desodorante Hidratante</span><span> </span>transborda cuidados essenciais para sua pele. Com o seu toque macio e suave, proporciona hidratação, nutrição e firmeza à pele, pois seu blend de ativos auxilia na produção de colágeno, na regeneração celular e no combate ao envelhecimento precoce.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Suas notas possuem um caminho Floral Bouquet envolvido em nuances encantadoras e misteriosas, com toques de pimenta rosa, toranja e flores nobres. Sua pele ficará perfumada, com um aspecto saudável e brilhoso.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream</span><span> </span>veio para completar a<span> </span><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">linha Liberté</span><span> </span>e os seus momentos de autocuidado. Passe e sinta a sensação de leveza, do toque suave e textura única!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787657695602</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787657335154</id>
+    <published>2025-09-08T20:54:39-03:00</published>
+    <updated>2025-09-08T20:54:39-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-obsessed-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream Obsessed Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/160047-1200-auto.webp?v=1757375636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            27.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">A<strong> loção corporal <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream Obsessed Desodorante Hidratante</span></strong><span> </span>tem um toque macio, proporciona hidratação, nutrição e firmeza à pele. Sua fórmula única auxilia na produção de colágeno e na regeneração celular, deixando a pele com um aspecto saudável e brilhoso.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">Com notas olfativas refinadas, envoltas em um caminho olfativo Floral Amadeirado, iniciado por um toque de cereja entrelaçado por cítricos, seguindo para um fundo adocicado de mel e caramelo, resultando em uma fragrância super agradável para deixar sua pele perfumada.</p>
+<p> </p>
+<p class="lh-copy vtex-rich-text-0-x-paragraph vtex-rich-text-0-x-paragraph--container-p-b-24 vtex-rich-text-0-x-paragraph--container-p-h-24-s vtex-rich-text-0-x-paragraph--black-color vtex-rich-text-0-x-paragraph--font-w-400 vtex-rich-text-0-x-paragraph--font-s-16-m vtex-rich-text-0-x-paragraph--font-s-14-s vtex-rich-text-0-x-paragraph--description-product-pdp">O<span> </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Body Cream</span></strong><span> </span>veio para completar a<strong> linha <span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Obsessed</span></strong><span> </span>e os seus momentos de autocuidado. Passe e sinta a sensação de leveza, do toque suave e textura única!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787657335154</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.50</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://weepink.me/products/14787656188274</id>
+    <published>2025-09-08T20:52:49-03:00</published>
+    <updated>2025-09-08T20:52:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://weepink.me/products/body-cream-vf-golden-desodorante-hidratante-200ml-wepink"/>
+    <title>Body Cream VF Golden Desodorante Hidratante 200ml - Wepink</title>
+    <s:type>PERFUME</s:type>
+    <s:vendor>Minha loja - Wepink</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/159980-1200-auto.webp?v=1757375525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fornecedor: </strong>Minha loja - Wepink<br>
+        <strong>Tipo: </strong>PERFUME<br>
+        <strong>Preço: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A </span><strong><span class="b vtex-rich-text-0-x-strong vtex-rich-text-0-x-strong--container-p-b-24 vtex-rich-text-0-x-strong--container-p-h-24-s vtex-rich-text-0-x-strong--black-color vtex-rich-text-0-x-strong--font-w-400 vtex-rich-text-0-x-strong--font-s-16-m vtex-rich-text-0-x-strong--font-s-14-s vtex-rich-text-0-x-strong--description-product-pdp">Loção Desodorante Body Cream Wepink VF Golden</span></strong><span> tem um toque extraordinário, que proporciona hidratação, nutrição e firmeza, pois sua composição auxilia na produção de colágeno e regeneração celular, além de deixar a pele com um aspecto saudável e brilhoso. Sua fragrância celebra a essência dos momentos mais alegres em um caminho olfativo Floral, iniciando nas vibrantes notas de Pimenta Rosa, Mandarina e evoluindo em um coração Floral elegante. Finaliza no doce do Praline e o amadeirado do Âmbar, instigando desejo em um aroma encantador aos sentidos.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://weepink.me/products/14787656188274</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">27.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
